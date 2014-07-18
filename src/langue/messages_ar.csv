@@ -1,0 +1,115 @@
+verification	التحقق
+aide	تعليمات
+projet	المشروع
+apropos	حول
+auteur	الكاتب
+quoi_de_neuf	ما هو الجديد؟
+licence	ترخيص
+fermer	قم بإغلاق
+fermer_cette_fenetre	قم بإغلاق هذه النافذة
+sauvegarde_effectuee	إجراء النسخ الاحتياطي...
+oui	نعم
+non	غير
+annuler	إلغاء الأمر
+fermer_logiciel	هل تريد إغلاق هذا البرنامج؟
+sauvegarder_fichier	هل تريد حفظ الملف الحالي؟
+sauvegarder_script_sql	حفظ البرنامج النصي SQL في ملف نصي
+sauvegarder_sql	SQL
+sauvegarder_script_mld	حفظ البرنامج النصي MLD في ملف نصي
+fichier_existant	حذار، الملف موجود بالفعل. هل تريد الكتابة فوقه؟
+chargement_aide_echec	فشل تحميل التعليمات
+precedent	السابقة
+retour_page_precedente	العودة إلى الصفحة السابقة
+home	الصفحة الرئيسية
+quitter	إجازة
+retour_page_principale	العودة إلى الصفحة الرئيسية
+nouveau	الجديد
+creer_document	إنشاء مستند جديد
+ouvrir	مفتوحة
+ouvrir_document	فتح مستند موجود
+sauvegarder	حفظ
+sauvegarder_document	قم بحفظ المستند
+saveas	حفظ باسم...
+saveas_document	حفظ المستند إلى ملف جديد
+quitter_application	إنهاء التطبيق
+annuler_derniere_operation	التراجع عن آخر عملية
+retablir	استعادة
+retablir_derniere_operation	التراجع عن الإجراء الأخير
+couper	قص
+couper_coller	إزالة العنصر (s) (s) المحددة ونسخها إلى الحافظة
+coller	لصق
+coller_element	إدراج هذا البند (s) التي قمت بنسخها أو قصها في الموقع المحدد
+copier	نسخة
+copier_element	نسخ العنصر (s) المحددة (s) إلى الحافظة
+affiche_navigateur	إظهار المستعرض
+navigateur	المستعرض
+connexion	اتصال
+type_de_connexion	نوع الاتصال
+adresse_url	عنوان URL
+login	تسجيل الدخول
+password	كلمة المرور
+connecter	الاتصال
+connexion_avec_base	الاتصال بقاعدة البيانات
+entite	الكيان
+nom	الاسم
+type	نوع
+taille	الحجم
+id	معرف
+ok	موافق
+utilise	يستخدم
+enregistrer_changement	حفظ التغييرات
+annuler_changement	إلغاء التغييرات
+ajouter_information	إضافة معلومات جديدة
+retirer_information	إزالة المعلومات الموجودة
+inverser_information_avec_precedent	عكس العنصر (s) المحددة (s) مع السابق
+inverser_information_avec_suivant	عكس العنصر (s) المحددة (s) بما يلي
+modifier_nom_entite	تغيير اسم الكيان
+ajout_rapide_information	إضافة سريعة للمعلومات
+ajout	إضافة
+association	رابطة
+lien	وصلة
+cardinalite	العلاقة الأساسية
+type	نوع
+supprimer	حذف
+supprimer_ligne	حذف الصفوف المحددة
+monter	جبل
+descendre	ينزل
+question_supprimer_element	هل أنت متأكد من أنك تريد حذف العنصر المحدد؟
+info_dans_mcd	\nAttention، المعلومات المحدد موجود في MCD.
+certaines_infos_dans_mcd	\nAttention، المحدد بعض المعلومات موجود في MCD.
+analysesi	أناليسيسي
+question_supprimer_elements_selectionnes	هل أنت متأكد من أنك تريد حذف العناصر المحددة {0}؟
+entite_existe_changer_nom	L ' كيان [{0}] موجود بالفعل. الرجاء تغيير الاسم...
+association_existe_changer_nom	L ' يوجد اقتران [{0}] الفعل. الرجاء تغيير الاسم...
+propriete_existe	آسف, الملكية [{0}] موجود بالفعل...
+ajouter_entite	إضافة كيان
+ajouter_association	إضافة اقتران
+ajouter_lien	إضافة ارتباط
+table_existe_deja	جدول موجود بالفعل، هل تريد حذف الجداول الموجودة؟ لاحظ أن هذا سوف يدمر جميع البيانات الخاصة بك
+table_creation_ok	إنشاء الجداول بنجاح إجراء...
+executer_requete_sql	تشغيل استعلامات SQL...
+impossible_creer_table	غير قادر على إنشاء الجداول. تذكر للتحقق من أن كافة أنواع البيانات معتمدة من قبل قاعدة البيانات الخاصة بك.
+dictionnaire_donnees	قاموس البيانات
+titre_mcd	نموذج البيانات المفاهيمي
+titre_mpd	نموذج البيانات الفعلية
+titre_sql	إنشاء SQL من MPD
+titre_mld	نموذج المنطق
+titre_rapport	إنشاء تقرير بتنسيق HTML
+impossible_save_fichier	لا يمكن حفظ الملف: {0}
+generation_mpd	إنشاء البرنامج النصي MPD، ملدر، ومزود
+help_sauvegarde_png	حفظ الرسم البياني في ملف PNG
+sauvegarde_png	بابوا غينيا الجديدة
+supprimer_lien_selection	هل أنت متأكد من أنك تريد حذف الارتباط المحدد؟
+supprimer_objet_selection	هل أنت متأكد من أنك تريد حذف الكائن المحدد؟
+connexion_avec_sgbd	اتصال مع نظم إدارة قواعد البيانات
+fichier_script_sql	ملف البرنامج النصي SQL
+parametrage	الإعداد
+options_projet_asi	العام
+options_sql	SQL
+dictionnaire_erreur	قاموس البيانات يحتوي على أخطاء، يرجى تصحيحها قبل توليد MPD...
+dictionnaire_correct	القاموس الصحيح.
+information_non_utilisee	معلومات القاموس ليست في MCD...
+mcd_incorrect	لا يمكن إنشاء MCD غير صحيحة، MPD...
+mpd_ok	إنشاء MPD ناجحة...
+sql_ok	إنشاء SQL ناجحة...
+mldr_ok	إنشاء ملدر ناجحة...
