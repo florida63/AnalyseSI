@@ -1,0 +1,118 @@
+verification	Verificación
+aide	Ayuda
+projet	Proyecto
+apropos	Acerca de
+auteur	Autor
+quoi_de_neuf	¿Qué es nuevo?
+licence	Licencia
+fermer	Cerrar
+fermer_cette_fenetre	Cierre esta ventana
+sauvegarde_effectuee	Realiza backup...
+oui	Sí
+non	No
+annuler	Cancelar
+fermer_logiciel	¿Quieres cerrar el programa?
+sauvegarder_fichier	¿Quieres guardar el archivo actual.
+sauvegarder_script_sql	Guarde el script SQL en un archivo de texto
+sauvegarder_sql	SQL
+sauvegarder_script_mld	Guarde el script MLD en un archivo de texto
+fichier_existant	Cuidado, el archivo ya existe. ¿Quieres sobrescribirlo?
+chargement_aide_echec	No se pudo cargar ayuda
+precedent	Anterior
+retour_page_precedente	Volver a la página anterior
+home	Página de inicio
+quitter	Licencia
+retour_page_principale	Volver a la Página principal
+nouveau	Nuevo
+creer_document	Crear un documento nuevo
+ouvrir	Abierto
+ouvrir_document	Abrir un documento existente
+sauvegarder	Salvar
+sauvegarder_document	Guardar el documento
+saveas	Guardar como...
+saveas_document	Guardar el documento en un archivo nuevo
+quitter_application	Salir de la aplicación
+annuler_derniere_operation	Deshacer la última operación
+retablir	Restaurar
+retablir_derniere_operation	Rehacer la última acción
+couper	Corte
+couper_coller	Quitar el elemento (s) seleccionado (s) y copiarlos en el portapapeles
+coller	Pasta
+coller_element	Insertar el elemento (s) que ha copiado o cortado a la ubicación seleccionada
+copier	Copia
+copier_element	Copia el elemento (s) seleccionado (s) en el portapapeles
+affiche_navigateur	Mostrar navegador
+navigateur	Explorador
+connexion	Conexión
+type_de_connexion	Tipo de conexión
+adresse_url	Dirección URL
+login	Inicio de sesión
+password	Contraseña
+connecter	Conectar
+connexion_avec_base	Conexión a la base de datos
+entite	Entidad
+nom	Nombre
+type	Tipo
+taille	Tamaño
+id	ID
+ok	Vale
+utilise	Usado
+enregistrer_changement	Guardar los cambios
+annuler_changement	Cancelar los cambios
+ajouter_information	Añadir nueva información
+retirer_information	Quitar la información existente
+inverser_information_avec_precedent	Inversa del elemento (s) seleccionado (s) con el anterior
+inverser_information_avec_suivant	Inversa del elemento (s) seleccionado (s) con las siguientes
+modifier_nom_entite	Cambiar el nombre de la entidad
+ajout_rapide_information	Adición rápida de información
+ajout	Agregar
+association	Asociación
+lien	Enlace
+cardinalite	Cardinalidad
+type	Tipo
+supprimer	Borrar
+supprimer_ligne	Eliminar las filas seleccionadas
+monter	Monte
+descendre	Sal
+question_supprimer_element	¿Está seguro que desea eliminar el elemento seleccionado?
+info_dans_mcd	\nAttention, información seleccionada está presente en el MCD.
+certaines_infos_dans_mcd	\nAttention, algunos seleccionados información está presente en el MCD.
+analysesi	AnalyseSI
+question_supprimer_elements_selectionnes	¿Está seguro que desea eliminar los elementos seleccionados {0}?
+entite_existe_changer_nom	L ' entidad [{0}] ya existe. Por favor, cambie el nombre...
+association_existe_changer_nom	L ' Asociación [{0}] ya existe. Por favor, cambie el nombre...
+propriete_existe	Lo sentimos, la propiedad [{0}] ya existe...
+ajouter_entite	Agregar una entidad
+ajouter_association	Añadir una asociación
+ajouter_lien	Agregar un enlace
+table_existe_deja	Ya existe una tabla, ¿desea eliminar las tablas existentes? Tenga en cuenta que esto destruirá todos los datos
+table_creation_ok	Crear las tablas correctamente realizado...
+executer_requete_sql	Ejecutar consultas SQL...
+impossible_creer_table	Incapaz de crear las tablas. Recuerde comprobar que todos los tipos de datos son compatibles con la base de datos.
+dictionnaire_donnees	Diccionario de datos
+titre_mcd	Modelo de datos conceptual
+titre_mpd	Modelo de datos físicos
+titre_sql	Creación de la SQL de la MPD
+titre_mld	Modelo lógico
+titre_rapport	Creación de un informe en formato HTML
+impossible_save_fichier	No se puede guardar el archivo: {0}
+generation_mpd	La generación de secuencias de comandos MPD, MLDR y SQL
+help_sauvegarde_png	Guardar el gráfico en un archivo PNG
+sauvegarde_png	PNG
+supprimer_lien_selection	¿Está seguro que desea eliminar el enlace seleccionado?
+supprimer_objet_selection	¿Está seguro que desea eliminar el objeto seleccionado?
+connexion_avec_sgbd	conexión con un DBMS
+fichier_script_sql	Archivo de comandos SQL
+parametrage	Ajuste
+options_projet_asi	General
+options_sql	SQL
+dictionnaire_erreur	El diccionario de datos contiene errores, por favor corregirlos antes de generar el MPD.
+dictionnaire_correct	El diccionario es correcto.
+information_non_utilisee	Información del diccionario no están en el MCD...
+mcd_incorrect	MCD es incorrecta, no se puede crear el MPD.
+mpd_ok	Creación de la MPD exitosa...
+sql_ok	Creación de la exitosa SQL...
+mldr_ok	Creación de la exitosa MLDR...
+sql_syntax	Sintaxis SQL
+connecte	Conectado
+deconnecte	Desconectado

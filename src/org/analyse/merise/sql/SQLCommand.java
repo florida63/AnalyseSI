@@ -34,6 +34,7 @@ import java.util.List;
 import java.util.Observable;
 import java.util.Observer;
 import java.util.StringTokenizer;
+import org.analyse.core.util.Constantes ;
 
 /**
  * Cette classe fait le lien avec une base de donnée. Elle contient permet
@@ -314,7 +315,7 @@ public class SQLCommand {
 			con = DriverManager.getConnection(url, user, password);
 			stmt = con.createStatement();
 		} catch (SQLException e) {
-			error = "Impossible de se connecter à la base de donnée, vérifier l'URL, le login et le password\net que votre database existe !";
+			error = Constantes.MESSAGE_CONNEXION_IMPOSSIBLE ;
             error += e.getMessage() ;
 			//e.printStackTrace();
 			return false;
@@ -360,8 +361,8 @@ public class SQLCommand {
 	
 	public String getLabelState() {
 		if (state == DECONNECTED)
-			return "Déconnecté";
-		return "Connecté";
+			return Constantes.MESSAGE_DECONNECTE;
+		return Constantes.MESSAGE_CONNECTE;
 	}
 
 	/**
