@@ -89,8 +89,8 @@ public class ParametrageWindow extends JDialog implements ActionListener
         	
         	BoxLayout    bl=new BoxLayout(panel,BoxLayout.Y_AXIS);   //layoutManager
         	panel.setLayout(bl);   //attache le layoutManager au panel
-        	
-        	label=new JLabel("En cours de développement ...");     
+
+        	label=new JLabel(Utilities.getLangueMessage(Constantes.MESSAGE_EN_DEVELOPPEMENT));
         	panel.add(label);        	
                     	
             //panel.setBorder(BorderFactory.createEmptyBorder(8, 8, 8, 8));

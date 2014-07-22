@@ -260,6 +260,8 @@ public class Constantes {
     public static final String MESSAGE_OPTIONS_SQL = "options_sql" ;
     public static final String MESSAGE_OPTIONS_PROJET_ASI="options_projet_asi" ;
     public static final String MESSAGE_SAUVEGARDER_FICHIER_PNG="help_sauvegarde_png" ;
+    public static final String MESSAGE_EN_DEVELOPPEMENT="en_developpement";
+
     public static final String INT_AUTO_INCREMENT = "INT" ;
     public static final String BIGINT_AUTO_INCREMENT = "BIGINT" ;
     public static final String AUTO_INCREMENT = "INT" ;
